@@ -1,0 +1,17 @@
+/* Custom CSS overrides for avatar size */
+
+.author__avatar img {
+  max-width: 200px !important;  /* Increase from 120px to 200px */
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover;  /* Ensures the image covers the circle properly */
+}
+
+/* Optional: Adjust for smaller screens */
+@media screen and (max-width: 1024px) {
+  .author__avatar img {
+    max-width: 150px !important;
+    width: 150px !important;
+    height: 150px !important;
+  }
+}
