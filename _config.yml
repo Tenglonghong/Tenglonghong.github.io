@@ -23,7 +23,7 @@ repository               : "Tenglonghong/Tenglonghong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.png"
+  avatar           : "photo.png"
   name             : "Tenglong Hong"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant@UC Berkeley, Incoming Ph.D.@UCLA"
