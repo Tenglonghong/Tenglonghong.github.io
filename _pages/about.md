@@ -21,7 +21,8 @@ Currently, I am working as a research assistant in the IEOR department at UC Ber
 
 - **Data-driven decision making under uncertainty** 
 - **Decision Focused Learning and Integrate Prediction and Optimization**
-- **Robust optimization** 
+- **Distributionally Robust optimization** 
+- **Transportation and Logistics**
 
 <br>
 
@@ -29,8 +30,8 @@ Currently, I am working as a research assistant in the IEOR department at UC Ber
 
 Education
 ======
-* Ph.D in Transportation Engineering, University of California Los Angeles, 2026 -
-* M.Eng. in Industrial Engineering and Operations Research, University of California Berkeley, 2024 - 2025
+* Ph.D. in Transportation Engineering, University of California, Los Angeles, 2026 -
+* Master in Operations Research, University of California, Berkeley, 2024 - 2025
 * B.S. in Operations Management, University of Delaware, 2020 - 2024
 * B.S. in Operations Management, Southwestern University of Finance and Economics, 2020 - 2024 (Dual Degree)
 
