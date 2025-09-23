@@ -31,7 +31,7 @@ Currently, I am working as a research assistant in the IEOR department at UC Ber
 Education
 ======
 * Ph.D. in Transportation Engineering, University of California, Los Angeles, 2026 -
-* Master in Operations Research, University of California, Berkeley, 2024 - 2025
+* MEng. in Operations Research, University of California, Berkeley, 2024 - 2025
 * B.S. in Operations Management, University of Delaware, 2020 - 2024
 * B.S. in Operations Management, Southwestern University of Finance and Economics, 2020 - 2024 (Dual Degree)
 
