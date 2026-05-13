@@ -26,11 +26,11 @@ author:
   avatar           : "photo.png"
   name             : "Tenglong Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant@UC Berkeley, Incoming Ph.D.@UCLA"
-  location         : "Berkeley, CA"
-  employer         : "University of California, Berkeley"
+  bio              : "Ph.D. Student @UCLA HUMAN Lab"
+  location         : "Los Angeles, CA"
+  employer         : "University of California, Los Angeles"
   # uri              : # URL
-  email            : "tenglong_hong@berkeley.edu" 
+  email            : "tlhong0802@ucla.edu" 
 
   # # Academic websites
   academia         : # URL

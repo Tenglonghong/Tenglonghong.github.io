@@ -10,9 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hello! My name is Tenglong Hong, and I am a first-year Ph.D. student in Transportation Engineering at the University of California, Los Angeles. I am very fortunate to be advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/home). My research designs efficient data-driven decision-making methods for agents operating under uncertainty in complex, interconnected transportation and logistics systems. I additionally collaborate with [Prof. Paul Grigas](https://grigas.ieor.berkeley.edu) at UC Berkeley IEOR on decision-focused learning and optimization algorithms for problems in machine learning and operations research.
-
-Previously, I also had the opportunity to collaborate with [Prof. Yu Zhang](https://gs.swufe.edu.cn/info/1123/20521.htm) and [Prof. Daniel Zhuoyu Long](https://www.se.cuhk.edu.hk/people/academic-staff/prof-long-zhuoyu-daniel/) during my undergraduate studies.
+Hello! My name is Tenglong Hong, and I am a first-year Ph.D. student in Transportation Engineering at the University of California, Los Angeles. I am very fortunate to be advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/home). My research designs efficient data-driven decision-making methods for agents operating under uncertainty in complex, interconnected transportation and logistics systems. I additionally collaborate with [Prof. Paul Grigas](https://grigas.ieor.berkeley.edu) at University of California, Berkeley IEOR on decision-focused learning and optimization algorithms for problems in machine learning and operations research. Previously, I also had the opportunity to work with [Prof. Yu Zhang](https://gs.swufe.edu.cn/info/1123/20521.htm) and [Prof. Daniel Zhuoyu Long](https://www.se.cuhk.edu.hk/people/academic-staff/prof-long-zhuoyu-daniel/) during my undergraduate studies.
 
 
 ## Research Interests
@@ -25,15 +23,15 @@ Previously, I also had the opportunity to collaborate with [Prof. Yu Zhang](http
 
 ## Ongoing Research
 
-My ongoing work develops along two complementary directions.
+My current research develops along two complementary directions.
 
 ### 1. Transportation and Logistics Systems
 
-- *Traveler Choice-Aware Transit Line Planning with Service–Fare Coordination.* **T. Hong**,Y. Kim, J. C. Martínez Mori. *Manuscript in preparation*, 2026.
+- *Traveler Choice-Aware Transit Line Planning with Service–Fare Coordination.* **Tenglong Hong**, Youngseo Kim, J. Carlos Martínez Mori. *Manuscript in preparation*, 2026.
 
 ### 2. Decision-Focused Learning and Scalable Optimization Algorithms
 
-- *A Barrier-Metric First-Order Method for Linearly Constrained Bilevel Optimization.* **T. Hong**, P. Grigas. [arXiv:2605.11476](https://arxiv.org/abs/2605.11476), 2026. 
+- [*A Barrier-Metric First-Order Method for Linearly Constrained Bilevel Optimization*](https://arxiv.org/abs/2605.11476). **Tenglong Hong**, Paul Grigas. 2026. 
 
 
 ## Education
