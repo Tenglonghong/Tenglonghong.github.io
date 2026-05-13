@@ -10,31 +10,38 @@ redirect_from:
 
 ## About Me
 
-Hello! My name is Tenglong Hong, and I am an incoming Ph.D. student specializing in transportation engineering at the University of California, Los Angeles, starting in Spring 2026. I am fortunate to be advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/home). My research focuses on designing efficient data-driven decision-making solutions for agents operating under uncertainty in complex, interconnected transportation and logistics systems.
+Hello! My name is Tenglong Hong, and I am a first-year Ph.D. student in Transportation Engineering at the University of California, Los Angeles. I am very fortunate to be advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/home). My research designs efficient data-driven decision-making methods for agents operating under uncertainty in complex, interconnected transportation and logistics systems. I additionally collaborate with [Prof. Paul Grigas](https://grigas.ieor.berkeley.edu) at UC Berkeley IEOR on decision-focused learning and optimization algorithms for problems in machine learning and operations research.
 
-<!-- <br> -->
-
-Currently, I am working as a research assistant in the IEOR department at UC Berkeley under the supervision of [Prof. Paul Grigas](https://grigas.ieor.berkeley.edu), focusing on decision-focused learning methods and their applications. Previously, I also had the opportunity to collaborate with [Prof. Yu Zhang](https://gs.swufe.edu.cn/info/1123/20521.htm) at SWUFE and [Prof. Daniel Zhuoyu Long](https://www.se.cuhk.edu.hk/people/academic-staff/prof-long-zhuoyu-daniel/) at CUHK during my undergraduate studies.
+Previously, I also had the opportunity to collaborate with [Prof. Yu Zhang](https://gs.swufe.edu.cn/info/1123/20521.htm) and [Prof. Daniel Zhuoyu Long](https://www.se.cuhk.edu.hk/people/academic-staff/prof-long-zhuoyu-daniel/) during my undergraduate studies.
 
 
 ## Research Interests
 
-- **Data-driven decision making under uncertainty** 
-- **Decision Focused Learning and Integrate Prediction and Optimization**
-- **Distributionally Robust optimization** 
-- **Transportation and Logistics**
-
-<br>
+- **Data-driven decision-making under uncertainty**
+- **Contextual optimization and decision-focused machine learning**
+- **Scalable optimization algorithms**
+- **Transportation and logistics systems**
 
 
+## Ongoing Research
 
-Education
-======
-* Ph.D. in Transportation Engineering, University of California, Los Angeles, 2026 -
-* MEng. in Operations Research, University of California, Berkeley, 2024 - 2025
-* B.S. in Operations Management, University of Delaware, 2020 - 2024
-* B.S. in Operations Management, Southwestern University of Finance and Economics, 2020 - 2024 (Dual Degree)
+My ongoing work develops along two complementary directions.
 
+### 1. Transportation and Logistics Systems
+
+- *Traveler Choice-Aware Transit Line Planning with Service–Fare Coordination.* **T. Hong**,Y. Kim, J. C. Martínez Mori. *Manuscript in preparation*, 2026.
+
+### 2. Decision-Focused Learning and Scalable Optimization Algorithms
+
+- *A Barrier-Metric First-Order Method for Linearly Constrained Bilevel Optimization.* **T. Hong**, P. Grigas. [arXiv:2605.11476](https://arxiv.org/abs/2605.11476), 2026. 
+
+
+## Education
+
+- **Ph.D. in Transportation Engineering**, University of California, Los Angeles · 2026 –
+- **M.S. in Operations Research**, University of California, Berkeley · 2024 – 2025
+- **B.S. in Operations Management**, University of Delaware · 2020 – 2024
+- **B.S. in Operations Management**, Southwestern University of Finance and Economics · 2020 – 2024 (Dual Degree)
 
 
 <!-- 
