@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hello! My name is Tenglong Hong, and I am a first-year Ph.D. student in Transportation Engineering at the University of California, Los Angeles. I am very fortunate to be advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/home). My research designs efficient data-driven decision-making methods for agents operating under uncertainty in complex, interconnected transportation and logistics systems. I also work closely with [Prof. Paul Grigas](https://grigas.ieor.berkeley.edu) at University of California, Berkeley IEOR on decision-focused learning and optimization algorithms for problems in machine learning and operations research. Previously, I had the opportunity to collaborate with [Prof. Yu Zhang](https://gs.swufe.edu.cn/info/1123/20521.htm) and [Prof. Daniel Zhuoyu Long](https://www.se.cuhk.edu.hk/people/academic-staff/prof-long-zhuoyu-daniel/) during my undergraduate studies.
+Hello! My name is Tenglong Hong, and I am a first-year Ph.D. student in Transportation Engineering at the University of California, Los Angeles. I am very fortunate to be advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/home). My research designs efficient data-driven decision-making methods for agents operating under uncertainty in complex, interconnected transportation and logistics systems. I also work closely with [Prof. Paul Grigas](https://grigas.ieor.berkeley.edu) at University of California, Berkeley IEOR on decision-focused learning and optimization algorithms for problems in machine learning and operations research. Previously, during my undergraduate studies, I had the opportunity to collaborate with [Prof. Yu Zhang](https://gs.swufe.edu.cn/info/1123/20521.htm) and [Prof. Daniel Zhuoyu Long](https://www.se.cuhk.edu.hk/people/academic-staff/prof-long-zhuoyu-daniel/) on distributionally robust optimization.
 
 
 ## Research Interests
@@ -27,7 +27,7 @@ My current research develops along two complementary directions.
 
 ### 1. Transportation and Logistics Systems
 
-- *Traveler Choice-Aware Transit Line Planning with Service–Fare Coordination.* **Tenglong Hong**, Youngseo Kim, J. Carlos Martínez Mori. *Manuscript in preparation*, 2026.
+- *Traveler Choice-Aware Transit Line Planning with Service–Fare Coordination.* **Tenglong Hong**, J. Carlos Martínez Mori, Youngseo Kim. *Manuscript in preparation*, 2026.
 
 ### 2. Decision-Focused Learning and Scalable Optimization Algorithms
 
