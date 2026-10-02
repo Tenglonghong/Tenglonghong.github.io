@@ -27,6 +27,8 @@ My current research develops along two complementary directions.
 
 ### 1. Transportation and Logistics Systems
 
+- [*Learning Behavioral Parameters of Network Equilibrium Models from Aggregate Mobility Data*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7542784). **Tenglong Hong**, Youngseo Kim. 2026.
+
 - *Traveler Choice-Aware Transit Line Planning with Service–Fare Coordination.* **Tenglong Hong**, J. Carlos Martínez Mori, Youngseo Kim. *Manuscript in preparation*, 2026.
 
 ### 2. Decision-Focused Learning and Scalable Optimization Algorithms
