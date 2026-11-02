@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Transportation Engineering, University of California, Los Angeles, Mar 2026 – present. Advisor: Prof. Youngseo Kim.
-* M.Eng. in Operations Research, University of California, Berkeley, Aug 2024 – May 2025. Advisor: Prof. Paul Grigas.
+* Ph.D. in Transportation Engineering, University of California, Los Angeles, Mar 2026 – present
+  * Advisor: Prof. Youngseo Kim
+* M.Eng. in Operations Research, University of California, Berkeley, Aug 2024 – May 2025
+  * Advisor: Prof. Paul Grigas
 * B.S. in Operations Management, University of Delaware, Sep 2020 – May 2024
 * B.S. in Operations Management, Southwestern University of Finance and Economics, 2020 – 2024 (Dual Degree)
 
@@ -27,6 +29,9 @@ Research Experience
 * **Learning Behavioral Parameters of Network Equilibrium Models**, UCLA, May 2026 – Oct 2026
   * Funded by the University of California Institute of Transportation Studies (UC ITS). Advisor: Prof. Youngseo Kim.
   * Bi-level estimation of a combined destination, mode, and route choice equilibrium model with congestion, validated on Los Angeles County with public mobility data.
+
+Project Experience
+======
 * **On-demand Food Delivery with a Smart Predict-then-Optimize Method**, UC Berkeley, Sep 2024 – present
   * Advisor: Prof. Paul Grigas.
   * Smart Predict-then-Optimize pipeline for on-demand food delivery dispatch under bandit feedback.
