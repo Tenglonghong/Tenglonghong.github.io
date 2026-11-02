@@ -55,7 +55,8 @@ Professional Experience
 
 Skills
 ======
+* **Specialties:** Convex Optimization, Bilevel Optimization, First-Order Methods, Mixed-Integer Programming, Deep Learning, Decision-Focused Learning, Discrete Choice Modeling, Network Equilibrium
 * **Programming:** Python, R, SQL, MATLAB
 * **Optimization:** Gurobi, CPLEX, MOSEK, IPOPT, CVXPY
-* **Deep Learning & AI:** PyTorch, PyEPO, CvxpyLayers, Scikit-Learn
+* **Deep Learning & AI:** PyTorch, TensorFlow, JAX, Hugging Face Transformers, LangChain, Scikit-Learn, XGBoost, LightGBM, PyEPO, CvxpyLayers, Claude Code, Cursor
 * **Data & Tools:** Pandas, Matplotlib, GeoPandas, Slurm, Git, LaTeX, Excel, Mathematica
